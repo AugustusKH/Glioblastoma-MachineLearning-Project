@@ -1,2 +1,2 @@
-# Glioblastoma_MachineLearning_Project
+# Glioblastoma Machine Learning Project
 This repository collects my source codes used for machine learning (ML) project. Gene mutation information was used for grading the tumour. We used several classical ML classifiers, such as k-nearest neighbour (kNN), naive Bayes, decision tree (DT), random forest (RF), XGBoost, support vector machine (SVM), and logistic regression (LR), to train and predict the problem. Moreover, we also applied basic neural networks such as a multilayer perceptron in this project. 
